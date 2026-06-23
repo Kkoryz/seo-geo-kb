@@ -1,5 +1,6 @@
 ﻿# Ignore built search index
 .kb_index/
+.venv/
 __pycache__/
 *.pyc
 
