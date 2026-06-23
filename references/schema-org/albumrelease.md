@@ -1,0 +1,46 @@
+---
+title: "AlbumRelease"
+source_url: https://schema.org/AlbumRelease
+category: schema-org
+section: "schema.org — structured-data vocabulary reference"
+date: 2026-03-19
+---
+
+# AlbumRelease
+
+# AlbumRelease
+
+A Schema.org Enumeration Member
+
+- Canonical URL: https://schema.org/AlbumRelease
+[Check for open issues.](https://github.com/schemaorg/schemaorg/issues?q=is%3Aissue+is%3Aopen+AlbumRelease)
+
+AlbumRelease.
+
+A member value for enumeration type:
+
+[MusicAlbumReleaseType](/MusicAlbumReleaseType)
+
+### Acknowledgements
+
+MusicBrainz Project
+
+[www.musicbrainz.org](http://www.musicbrainz.org)), and is partially inspired by the MusicBrainz and
+
+[Music Ontology](http://musicontology.com/docs/getting-started.html)schemas.
+
+### Examples
+
+[Example 1](#eg-0387)
+
+Copied
+
+Example notes or example HTML without markup.
+
+An example of possible JSON-LD for Let It Be by the Beatles.
+
+Example encoded as
+
+[JSON-LD](https://en.wikipedia.org/wiki/JSON-LD)in a HTML script tag.<script type="application/ld+json"> { "@context": "https://schema.org", "@type": "MusicAlbum", "@id": "http://musicbrainz.org/release-group/bff544a7-56e0-3ed6-9e0f-3b676cca9111", "name": "Let It Be", "sameAs": [ "http://en.wikipedia.org/wiki/Let_It_Be", "http://www.wikidata.org/wiki/Q199585" ], "image": "http://coverartarchive.org/release-group/bff544a7-56e0-3ed6-9e0f-3b676cca9111/front.jpg", "albumProductionType": "https://schema.org/StudioAlbum", "albumReleaseType": "https://schema.org/AlbumRelease", "genre": "rock", "byArtist": { "@type": "MusicGroup", "name": "The Beatles", "@id": "http://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d" }, "albumRelease": { "@type": "MusicRelease", "name": "Let It Be", "@id": "http://musicbrainz.org/release/8d5347a5-9ecb-44be-a213-860aaaf5d0b8" }, "track": { "@type": "ItemList", "numberOfItems": 12, "itemListElement": [ { "@type": "ListItem", "position": 1, "item": { "@type": "MusicRecording", "name": "Two Of Us" } }, { "@type": "ListItem", "position": 2, "item": { "@type": "MusicRecording", "name": "Dig a Pony" } }, { "@type": "ListItem", "position": 3, "item": { "@type": "MusicRecording", "name": "Across the Universe" } } ] } } </script>
+
+Structured representation of the JSON-LD example.

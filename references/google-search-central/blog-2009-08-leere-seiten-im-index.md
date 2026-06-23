@@ -1,0 +1,11 @@
+---
+title: "Blank pages in the index | Google Search Central Blog | Google for Developers"
+source_url: https://developers.google.com/search/blog/2009/08/leere-seiten-im-index
+category: google-search-central
+section: "Google Search Central — official technical SEO + structured data docs"
+date: 2009-08-01
+---
+
+# Blank pages in the index | Google Search Central Blog | Google for Developers
+
+[[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],[],[],["A blog post was published on August 1, 2009, in German. The post is not translated into English. A link is provided to read the German blog post, accessible via the URL: /search/blog/2009/08/leere-seiten-im-index?hl=de.\n"]]

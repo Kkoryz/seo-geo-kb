@@ -1,0 +1,61 @@
+---
+title: "floorSize"
+source_url: https://schema.org/floorSize
+category: schema-org
+section: "schema.org — structured-data vocabulary reference"
+date: 2026-03-19
+---
+
+# floorSize
+
+# floorSize
+
+A Schema.org Property
+
+- Canonical URL: https://schema.org/floorSize
+[Check for open issues.](https://github.com/schemaorg/schemaorg/issues?q=is%3Aissue+is%3Aopen+floorSize)
+
+The size of the accommodation, e.g. in square meter or squarefoot.
+Typical unit code(s): MTK for square meter, FTK for square foot, or YDK for square yard.
+
+### Values expected to be one of these types
+
+
+### Used on these types
+
+
+### Acknowledgements
+
+STI Accommodation Ontology
+
+[http://ontologies.sti-innsbruck.at/acco/ns.html](http://ontologies.sti-innsbruck.at/acco/ns.html)for details. Many class and property definitions are inspired by or based on abstracts from Wikipedia, the free encyclopedia.
+
+### Examples
+
+[Example 1](#eg-0327)
+
+Copied
+
+Example notes or example HTML without markup.
+
+Apartment example with min and max occupancy limits and floor size of 81 square meters(JSON-LD only).
+
+Example encoded as
+
+[JSON-LD](https://en.wikipedia.org/wiki/JSON-LD)in a HTML script tag.<script type="application/ld+json"> { "@context": "https://schema.org", "@type": "Apartment", "name": "227 Lynn Street - Medium apartment", "description": "Great downtown accommodation for family or group of friends.", "numberOfRooms": 3, "occupancy": { "@type": "QuantitativeValue", "minValue": 1, "maxValue": 4 }, "floorLevel": "5", "floorSize": { "@type": "QuantitativeValue", "value": 81, "unitCode": "MTK" }, "numberOfBathroomsTotal": 2, "numberOfBedrooms": 2, "petsAllowed": true, "tourBookingPage": "http://example.com", "yearBuilt": 2005, "telephone": "+1-617-312-9783", "address": { "@type": "PostalAddress", "addressCountry": "US", "addressLocality": "West Roxbury", "addressRegion": "MA", "postalCode": "02132", "streetAddress": "227 Lynn Street" }, "latitude": 42.2742, "longitude": -71.1430 } </script>
+
+Structured representation of the JSON-LD example.
+
+[Example 2](#eg-0422)
+
+Copied
+
+Example notes or example HTML without markup.
+
+Single family residence example with min and max occupancy limits, floor size of 2500 square foots and lease length of 6 months(JSON-LD only).
+
+Example encoded as
+
+[JSON-LD](https://en.wikipedia.org/wiki/JSON-LD)in a HTML script tag.<script type="application/ld+json"> { "@context": "https://schema.org", "@type": "SingleFamilyResidence", "name": "1331 St George Street - Family House", "description": "Great opportunity to own this 2500 sqft originally built in 1988 family home with 4 bedroom, 3 bathroom. which was RENOVATED IN 2014:( New Windows, New Bathroom, New Hardwood Floors, Air Condition, New Kitchen, etc.)", "numberOfRooms": 5, "occupancy": { "@type": "QuantitativeValue", "minValue": 1, "maxValue": 5 }, "floorSize": { "@type": "QuantitativeValue", "value": 2500, "unitCode": "FTK" }, "leaseLength": { "@type": "QuantitativeValue", "value": 6, "unitText": "months" }, "numberOfBathroomsTotal": 3, "numberOfBedrooms": 4, "permittedUsage": "Perfectly suitable for a family with two kids.", "petsAllowed": "Only cats are allowed", "yearBuilt": 1988, "address": { "@type": "PostalAddress", "addressCountry": "CA", "addressLocality": "Vancouver", "addressRegion": "British Columbia", "postalCode": "V5T 1Z7", "streetAddress": "1331 St George Street" }, "telephone": "+1-604-829-6070" } </script>
+
+Structured representation of the JSON-LD example.

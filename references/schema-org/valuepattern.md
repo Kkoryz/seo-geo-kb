@@ -1,0 +1,23 @@
+---
+title: "valuePattern"
+source_url: https://schema.org/valuePattern
+category: schema-org
+section: "schema.org — structured-data vocabulary reference"
+date: 2026-03-19
+---
+
+# valuePattern
+
+# valuePattern
+
+A Schema.org Property
+
+- Canonical URL: https://schema.org/valuePattern
+[Check for open issues.](https://github.com/schemaorg/schemaorg/issues?q=is%3Aissue+is%3Aopen+valuePattern)
+
+Specifies a regular expression for testing literal values according to the HTML spec.
+
+### Values expected to be one of these types
+
+
+### Used on these types

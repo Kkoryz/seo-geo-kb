@@ -1,0 +1,44 @@
+---
+title: "colorist"
+source_url: https://schema.org/colorist
+category: schema-org
+section: "schema.org — structured-data vocabulary reference"
+date: 2026-03-19
+---
+
+# colorist
+
+- Canonical URL: https://schema.org/colorist
+[Check for open issues.](https://github.com/schemaorg/schemaorg/issues?q=is%3Aissue+is%3Aopen+colorist)
+
+The individual who adds color to inked drawings.
+
+### Values expected to be one of these types
+
+
+### Used on these types
+
+
+### Examples
+
+[Example 1](#eg-0221)
+
+Copied
+
+Example notes or example HTML without markup.
+
+An issue of a comic book. <div> <h1>TRUE BLOOD</h1> <div> TRUE BLOOD chronicles the backwoods Louisiana town of Bon Temps... in a world where vampires have emerged from the coffin and no longer need humans for their fix. </div> <div>Publisher: IDW (<a href="http://www.idwpublishing.com">http://www.idwpublishing.com</a>)</div> <ul> <li>Issue 13 HERE WE GO AGAIN PART 3: FEELING SINISTER <div>Author: Michael McMillian</div> <div>Art by: Beni Lobel</div> <div>Colors by: Esther Sanz</div> <div>Letters by: Neil Uyetake</div> <div>Edits by: Denton J. Tipton</div> <div>Date published: May 2013</div> <div> Jason discovers the reason for Amy's sudden ability to go out in the daylight, but does his best not to think about it. </div> <div><em>CVR B</em> Cover by: Michael Gaydos</div> </li> </ul> </div>
+
+Example encoded as
+
+[Microdata](https://en.wikipedia.org/wiki/Microdata_(HTML))embedded in HTML.<div itemscope itemtype="https://schema.org/ComicSeries"> <h1 itemprop="name">TRUE BLOOD</h1> <div itemprop="description"> TRUE BLOOD chronicles the backwoods Louisiana town of Bon Temps... in a world where vampires have emerged from the coffin and no longer need humans for their fix. </div> <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">Publisher: <span itemprop="name">IDW</span> (<a itemprop="url" href="http://www.idwpublishing.com">http://www.idwpublishing.com</a>) </div> <ul> <li itemprop="hasPart" itemscope itemtype="https://schema.org/ComicIssue"> Issue <span itemprop="issueNumber">13</span> <div itemprop="hasPart" itemscope itemtype="https://schema.org/ComicStory"> <span itemprop="name">HERE WE GO AGAIN PART 3: FEELING SINISTER</span> <div itemprop="author" itemscope itemtype="https://schema.org/Person">Author: <span itemprop="name">Michael McMillian</span> </div> <div itemprop="artist" itemscope itemtype="https://schema.org/Person">Art by: <span itemprop="name">Beni Lobel</span> </div> <div itemprop="colorist" itemscope itemtype="https://schema.org/Person">Colors by: <span itemprop="name">Esther Sanz</span> </div> <div itemprop="letterer" itemscope itemtype="https://schema.org/Person">Letters by: <span itemprop="name">Neil Uyetake</span> </div> <div itemprop="editor" itemscope itemtype="https://schema.org/Person">Edits by: <span itemprop="name">Denton J. Tipton</span> </div> <div>Date published: <time itemprop="datePublished" datetime="2013-05">May 2013</time></div> <div itemprop="description"> Jason discovers the reason for Amy's sudden ability to go out in the daylight, but does his best not to think about it. </div> </div> <div itemprop="hasPart" itemscope itemtype="https://schema.org/ComicCoverArt"> <em itemprop="name">CVR B</em> <div itemprop="creator" itemscope itemtype="https://schema.org/Person">Cover by: <span itemprop="name">Michael Gaydos</span> </div> </div> </li> </ul> </div>
+
+Example encoded as
+
+[RDFa](https://en.wikipedia.org/wiki/RDFa)embedded in HTML.<div vocab="https://schema.org/" typeof="ComicSeries"> <h1 property="name">TRUE BLOOD</h1> <div property="description"> TRUE BLOOD chronicles the backwoods Louisiana town of Bon Temps... in a world where vampires have emerged from the coffin and no longer need humans for their fix. </div> <div property="publisher" typeof="Organization">Publisher: <span property="name">IDW</span> (<a property="url" href="http://www.idwpublishing.com">http://www.idwpublishing.com</a>) </div> <ul> <li property="hasPart" typeof="ComicIssue"> Issue <span property="issueNumber">13</span> <div property="hasPart" typeof="ComicStory"> <span property="name">HERE WE GO AGAIN PART 3: FEELING SINISTER</span> <div property="author" typeof="Person">Author: <span property="name">Michael McMillian</span> </div> <div property="artist" typeof="Person">Art by: <span property="name">Beni Lobel</span> </div> <div property="colorist" typeof="Person">Colors by: <span property="name">Esther Sanz</span> </div> <div property="letterer" typeof="Person">Letters by: <span property="name">Neil Uyetake</span> </div> <div property="editor" typeof="Person">Edits by: <span property="name">Denton J. Tipton</span> </div> <div>Date published: <time property="datePublished" datetime="2013-05">May 2013</time></div> <div property="description"> Jason discovers the reason for Amy's sudden ability to go out in the daylight, but does his best not to think about it. </div> </div> <div property="hasPart" typeof="ComicCoverArt"> <em property="name">CVR B</em> <div property="creator" typeof="Person">Cover by: <span property="name">Michael Gaydos</span> </div> </div> </li> </ul> </div>
+
+Example encoded as
+
+[JSON-LD](https://en.wikipedia.org/wiki/JSON-LD)in a HTML script tag.<script type="application/ld+json"> { "@context": "https://schema.org/", "@type": "ComicSeries", "description": "TRUE BLOOD chronicles the backwoods Louisiana town of Bon Temps... in a world where vampires have emerged from the coffin and no longer need humans for their fix.", "name": "TRUE BLOOD", "hasPart": { "@type": "ComicIssue", "issueNumber": 13, "datePublished": "2013-05", "hasPart": [{ "@type": "ComicStory", "description": "Jason discovers the reason for Amy's sudden ability to go out in the daylight, but does his best not to think about it.", "name": "HERE WE GO AGAIN PART 3: FEELING SINISTER", "author": { "@type": "Person", "name": "Michael McMillian" }, "artist": { "@type": "Person", "name": "Beni Lobel" }, "colorist": { "@type": "Person", "name": "Esther Sanz" }, "editor": { "@type": "Person", "name": "Denton J. Tipton" }, "letterer": { "@type": "Person", "name": "Neil Uyetake" } }, { "@type": "ComicCoverArt", "name": "CVR B", "creator": { "@type": "Person", "name": "Michael Gaydos" } }] } } </script>
+
+Structured representation of the JSON-LD example.

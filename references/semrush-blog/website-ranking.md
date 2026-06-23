@@ -1,0 +1,289 @@
+---
+title: "Website Ranking 101: How to Check & Improve Your Positions"
+source_url: https://www.semrush.com/blog/website-ranking/
+category: semrush-blog
+section: "Semrush blog — SEO/GEO methodology"
+date: 2023-11-16
+---
+
+# Website Ranking 101: How to Check & Improve Your Positions
+
+Anyone who works in search engine optimization (SEO) wants to secure higher positions on search engine results pages (SERPs).
+
+Achieving higher website ranking takes time. But it’s worth the effort.
+
+In this article, we’ll explain what affects website rankings, tactics you can implement to improve, and how to track your rankings.
+
+Let’s begin with the basics.
+
+## Why Website Rankings Matter
+
+Securing higher positions in search results can reward you with more visibility, traffic, and even revenue.
+
+Let’s say your company sells running sneakers. And you want your content to appear when people enter “best sneakers for running” into Google.
+
+Google will show them a list of webpages arranged based on which ones Google thinks are most relevant and helpful for that search. Those positions on the page are known as [keyword rankings](https://www.semrush.com/blog/google-keyword-ranking/).
+
+So, if your company’s content appears as the third organic (meaning unpaid) result, that means your website is ranking No. 3 for “best sneakers for running.” Which translates to more traffic than if you were ranked in a lower position.
+
+Why?
+
+Because click-through rates (CTRs) diminish significantly as rankings decrease.
+
+Our [State of Search](https://www.semrush.com/blog/state-of-search-2023/) report shows that the top result gets the highest CTR for a given search term. And CTRs drop significantly after the first few results.
+
+This clearly explains why SEOs are so focused on getting high first-page rankings.
+
+You can check *your* keyword rankings for free with our [keyword rank checker](https://www.semrush.com/free-tools/keyword-rank-checker/).
+
+## Factors Influencing Website Rankings
+
+No one knows the exact quantity and weight of search engine ranking factors. But some factors are known and have been confirmed.
+
+Here are some of the most important ranking factors to consider.
+
+**Content relevancy****:**[Google evaluates content relevancy](https://www.google.com/search/howsearchworks/how-search-works/ranking-results/#relevance)and aims to rank pages that best meet what the searcher is looking for**Content quality****:**[Google also considers content quality](https://www.google.com/search/howsearchworks/how-search-works/ranking-results/#quality)(including how trustworthy and authoritative it is) when determining rankings[Backlinks](https://www.semrush.com/blog/what-are-backlinks/)**:**Google mentions[backlinks are an important ranking factor](https://www.google.com/intl/en_uk/search/howsearchworks/how-search-works/ranking-results/#quality)that fall under the umbrella of quality. They can boost website rankings if acquired from authoritative websites.**Core Web Vitals****:**Google’s ranking system[rewards websites with excellent Core Web Vitals](https://developers.google.com/search/docs/appearance/core-web-vitals)(metrics that evaluate your pages’ speed, responsiveness, and visual stability)**Mobile-friendliness****:**Google’s[Mobile-Friendly Update](https://developers.google.com/search/blog/2015/04/rolling-out-mobile-friendly-update)made it clear that mobile-friendliness is a ranking factor for pages
+
+Keeping these factors in mind while applying some general SEO best practices can help you improve your rankings.
+
+But you need to know where you stand first. So, let’s dive into how to determine your current rankings.
+
+## How to Check Your Website’s Rankings
+
+Knowing your pages’ current rankings will help you recognize where you’re excelling and where you need to improve.
+
+Semrush’s [Position Tracking](https://www.semrush.com/position-tracking/) tool can help you with this. You can check your website’s keyword rankings and set alerts for notable changes.
+
+Go to the tool, enter your domain, and click “**Set up tracking**.”
+
+In the “Targeting” section, select “**as** **Root** **domain**” to track keywords for your entire website. Then, choose the search engine, device type, location, and business name (optional).
+
+Next, click “**Continue To Keywords**.”
+
+Enter the keywords you want to track and click “**Add keywords to campaign**.”
+
+Then, click the “**Start Tracking**” button.
+
+You’ll first see a summary, your average ranking position, and more in the “Landscape” report.
+
+Click the “**Overview**” tab and scroll down to see a table that gives you a more detailed look at your rankings and how they’ve changed.
+
+You’ll also be able to see which ones appear in SERP features (unique results that provide more information than standard search results).
+
+If you want to enable alerts, click the bell icon in the top right corner.
+
+And set the alert based on when you gain a top position, leave a top position, etc.
+
+Make note of any rankings that fall below No. 10. Because those will get little traffic from organic search.
+
+And then start focusing on what you can do to improve those positions.
+
+**Further reading:** [How to track SERP Rankings with the Semrush Position Tracking Tool](https://www.semrush.com/blog/semrush-position-tracking-tool-best-features/)
+
+## 5 Ways to Gain and Improve Website Rankings
+
+Improving website rankings requires a comprehensive approach.
+
+We’ll take you through the step-by-step procedure for improving your website’s rankings in search engine results.
+
+### Pick the Right Keywords
+
+Choosing keywords that are relevant to your business is the first step in improving your rankings. Because those are the keywords your audience is searching for.
+
+Let’s see how you can pick the right keywords using Semrush’s [Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/).
+
+Open the tool and enter a seed keyword (a broad term related to your niche).
+
+Then, click “**Search**.”
+
+The tool will show a massive list of keywords, along with metrics like the monthly search volume, [search intent](https://www.semrush.com/blog/search-intent/) (the reason behind a searcher’s query), [keyword difficulty](https://www.semrush.com/blog/keyword-difficulty/) (how challenging it would be to rank in the top 10 results for a given keyword), and more.
+
+It’s likely that many of these keywords aren’t very specific to your business and the types of topics you’ll want to cover.
+
+To narrow your results, try selecting the “**Questions**” tab. Which will show questions related to your niche that your audience is searching for.
+
+You can also use the suggested groups and subgroups in the column to the left of the keyword table. Which can help you discover highly specific search terms that are particularly relevant to your business.
+
+Select the keywords you’re interested in by checking the box next to each. Then, click “**Add to keyword list**” and create a name for your list.
+
+You can then click the arrow icon next to your list to see it in [Keyword Strategy Builder](https://www.semrush.com/analytics/keywordmanager/).
+
+Now, head to the **Topics and pages **tab and choose “**Cluster this list**.”
+
+This will group relevant terms. And help you determine which topics to focus on first.
+
+**Further reading****:** [How to Choose Keywords for SEO](https://www.semrush.com/blog/how-to-choose-keywords-for-seo/)
+
+### Create Quality Content
+
+We know that Google prioritizes quality when ranking content. Which means you should focus on creating pieces that are useful and relevant to what your audience is searching for.
+
+How can you ensure the content you create is high in quality?
+
+It’s a good idea to consider Google’s Experience, Expertise, Authoritativeness, and Trustworthiness [(E-E-A-T) guidelines](https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t).
+
+Here’s a closer look at what E-E-A-T means:
+
+**Experience****:**Considers the first-hand experience of the author who created the content**Expertise****:**Considers the author’s expertise in the field or subject. Including their education, skills, knowledge, and other qualifications.**Authoritativeness****:**Considers the author’s and the website’s reputation and reliability in the industry**Trustworthiness****:**Considers how accurate, honest, and credible the website is, among other factors
+
+Google’s third-party raters evaluate the elements of E-E-A-T in search results. So, if your content ticks all the E-E-A-T boxes, it is likely satisfying a lot of what Google is looking for.
+
+And remember that Google aims to provide the most useful content in return for the search query. So, make sure your content aligns with what searchers are looking for while aiming to provide something valuable and unique.
+
+You can get a general sense of what searchers are looking for by looking at the intent category in tools like [Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/).
+
+Here’s an overview of what each category means:
+
+**Informational****:**The user is trying to learn more about a topic**Navigational****:**The user is trying to find a specific page or brand**Commercial****:**The user is doing research that can inform a purchase**Transactional****:**The user wants to complete a specific action (typically a purchase)
+
+But you should also review the SERP to learn more specifics about what your competitors are doing. And what you can do to compete with them.
+
+You can do this directly from Keyword Magic Tool by clicking the search icon in the “Results” column next to any keyword.
+
+Last but not least, prioritize readability. Your audience should be able to read your content without struggling to understand it.
+
+The readability score (which ranges from 0 to 100 and is based on the Flesch-Kincaid test) should be above 60 to target a large audience. Keeping it at that level means most people can read it.
+
+|
+| Grade level | Notes |
+| 90-100 | 5th grade | Incredibly easy to read. Almost everyone can understand it. |
+| 80-90 | 6th grade | Easy to read. Used for common conversations. |
+| 70-80 | 7th grade | Fairly easy to read. Understood by most people. |
+| 60-70 | 8th to 9th grade | Plain English that’s suitable for 13- to 15-years-old students |
+| 50-60 | 10th to 12th grade | Fairly difficult to read |
+| 30-50 | College | Difficult to read |
+| 10-30 | College graduate | Very difficult to read |
+| 0-10 | Professional | Exceptionally difficult to read. Best understood by relevant professionals. |
+
+Readers find it difficult to read content with complex jargon, intricate words, and cluttered sentences. They should be able to understand the content easily, even while skimming.
+
+You can use Semrush’s [SEO Writing Assistant](https://www.semrush.com/swa/) to check the readability score, SEO, tone of voice, and originality.
+
+Open the tool and click “**Analyze my text**.”
+
+Type or paste your content here and enter target keywords. And click “**Get recommendations**.”
+
+You’ll see an overall score to give you a high-level understanding of whether your content is on track.
+
+Click “**Readability**” for more insights into the readability score, title issues, and content issues.
+
+Now, scroll down and hover over the highlighted sentences. And the tool will recommend actions to improve.
+
+Let’s say the sentence is hard to read. Hover over it and click “**Simplify**.” And the tool will automatically improve the sentence’s readability.
+
+And consider the recommendations under “SEO,” “Tone of voice” and “Originality” to further improve overall content quality.
+
+### Implement On-Page Optimizations
+
+On-page SEO means making changes to webpages to improve your website rankings. Which optimizes your webpages’ content for users and search engines.
+
+How do you implement on-page optimizations?
+
+It starts with the strategic placement of target keywords to tell search engines and readers what the page is about.
+
+Some important areas to include target keywords are in:
+
+- The post title (often referred to as the H1)
+- The title tag (the blue, clickable title that appears in search results)
+- The first 100-150 words
+- The subheadings (usually H2s and H3s).
+
+There’s much more to on-page SEO than those starting points, of course. And Semrush’s [On Page SEO Checker](https://www.semrush.com/on-page-seo-checker/) can help you improve all aspects of your on-page SEO.
+
+Open the tool and click “**+ ****Create project**.”
+
+Enter the domain and project name and click “**Create project**.”
+
+Find the domain in the project list. And click “**Set up**.”
+
+Now, follow the [On Page SEO Checker configuration](https://www.semrush.com/kb/563-configuring-on-page-seo-checker) guide. And click “**Collect ideas**.”
+
+Once all the pages are analyzed, click the “**Optimization Ideas**” tab.
+
+You’ll see a list of pages. And you can click “**# ideas**” next to any of them to view the tool’s suggestions.
+
+Scroll down to the “Content” section. It will show you which on-page SEO practices you’ve implemented. And which areas to improve.
+
+**Further reading****:** [On-Page SEO: What It Is & How to Do It](https://www.semrush.com/blog/on-page-seo/)
+
+### Acquire Quality Backlinks
+
+Backlinks are links on other websites that point to your website. And they’re essential for improving your website ranking in search engines.
+
+How do you acquire quality backlinks?
+
+Here are a few ways:
+
+**Creating linkable content****:**Valuable content that other websites want to link to, such as infographics, case studies, and research**Guest blogging****:**Publishing content on someone else’s website**Broken link building****:**Replacing non-functioning links with working links to your website[HARO link building](https://www.semrush.com/blog/haro-link-building/)**:**Offering journalists valuable content they need in return for press mentions
+
+It’s also wise to check your competitors’ backlink profiles. To find new opportunities.
+
+Use Semrush’s [Backlink Gap](https://www.semrush.com/analytics/gap/backlinks/) tool to do this.
+
+Enter your domain and up to four competitors’ domains. And click “**Find prospects**.”
+
+Make sure the “Prospects for:” drop-down menu is set to your domain. And then select the “**Best**” tab to see a list of domains that link to your competitors but not you.
+
+Now, select the domains you’re interested in contacting for backlinks. Then, click on “**+ Start outreach**,” select your project, and click “**Send prospects**.”
+
+You’ll then be prompted to go directly to the [Link Building Tool](https://www.semrush.com/link_building/).
+
+You can now evaluate all your link building prospects, send emails, and track your progress.
+
+In the “**Prospects**” tab, select “**To In Progress**” next to each prospect you want to contact.
+
+Head to the “**In Progress**” tab. Then choose “**Contact**” next to the prospect you want to contact. So you can draft a personalized email requesting a link to your site.
+
+### Improve Technical SEO
+
+Technical SEO covers everything related to the technical aspects of a website that impact how it performs in search. It’s primarily focused on search engines but also improves user experience.
+
+Many of the technical improvements you’ll make are designed to improve crawlability and indexability.
+
+Crawling occurs when search engine bots explore your website content by following links between your pages. So, new content is unknown to the search engine until it’s crawled.
+
+After crawling, the search engine tries to understand your pages so it can store them in its huge database. And this process is called indexing.
+
+Once indexed, your pages are eligible to be ranked according to the search engine algorithm.
+
+Here is an example of how the process works for Google:
+
+To help your pages rank (and faster) in search engine results, you need to make them discoverable.
+
+How?
+
+By using an SEO-friendly site structure with logically organized pages that search engines can easily crawl.
+
+In an optimal site structure, webpages are grouped by topic and arranged in a hierarchical manner. Like this:
+
+Submitting an XML sitemap is another way to make your webpages discoverable. It’s a file with a complete list of pages you want to index that helps search engines understand your site’s structure.
+
+Here’s what an XML sitemap looks like:
+
+You can submit your sitemap using Google Search Console. Check out this detailed guide on [how to generate and submit an XML sitemap](https://www.semrush.com/blog/xml-sitemap/) for more information.
+
+Looking for a way to uncover any potential technical SEO issues? Start with a free [SEO check](https://www.semrush.com/siteaudit/) for a quick scan.
+
+For a deeper look across your site, Semrush Site Audit is a great tool for that.
+
+Open the tool, enter your domain, and click “**Start Audit**.”
+
+Follow the prompts in the “Site Audit Settings” window. Then, click “**Start Site Audit**.”
+
+Once the audit is done, go to the “**Overview**” tab to see a summary of your overall website health and any issues that were detected.
+
+To get more insights, click the “**Issues**” tab. You’ll see a list of “Errors,” “Warnings,” and “Notices,” along with the details and how to fix them.
+
+Resolve these issues to improve your technical SEO.
+
+And run site audits regularly to monitor your progress and resolve new issues as they appear.
+
+**Further reading****:** [How to Perform a Complete SEO Audit (in 14 Steps)](https://www.semrush.com/blog/seo-audit/)
+
+## Prioritize and Protect Your Website Rankings
+
+After implementing the above tactics, you might start securing the top positions on search engine results pages (SERPs).
+
+But these rankings can change over time. And you may lose top spots in the future.
+
+Semrush’s [Position Tracking](https://www.semrush.com/position-tracking/) tool can help you track your keywords. It can even notify you of position changes. So you can take suitable actions before they become bigger issues.

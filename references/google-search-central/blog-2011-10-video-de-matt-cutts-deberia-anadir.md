@@ -1,0 +1,11 @@
+---
+title: "Matt Cutts video: Should I add \"nofollow\" to banner ads? | Google Search Central Blog | Google for Developers"
+source_url: https://developers.google.com/search/blog/2011/10/video-de-matt-cutts-deberia-anadir
+category: google-search-central
+section: "Google Search Central — official technical SEO + structured data docs"
+date: 2011-10-01
+---
+
+# Matt Cutts video: Should I add "nofollow" to banner ads? | Google Search Central Blog | Google for Developers
+
+[[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],[],[],["A blog post was published in Spanish on October 1, 2011. The post has not been translated into English. Readers are directed to a specific URL to access the content in Spanish, linked as \"[Start reading in Spanish](/search/blog/2011/10/video-de-matt-cutts-deberia-anadir?hl=es).\"\n"]]

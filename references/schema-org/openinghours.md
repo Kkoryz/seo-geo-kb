@@ -1,0 +1,100 @@
+---
+title: "openingHours"
+source_url: https://schema.org/openingHours
+category: schema-org
+section: "schema.org — structured-data vocabulary reference"
+date: 2026-03-19
+---
+
+# openingHours
+
+# openingHours
+
+A Schema.org Property
+
+- Canonical URL: https://schema.org/openingHours
+[Check for open issues.](https://github.com/schemaorg/schemaorg/issues?q=is%3Aissue+is%3Aopen+openingHours)
+
+The general opening hours for a business. Opening hours can be specified as a weekly time range, starting with days, then times per day. Multiple days can be listed with commas ',' separating each day. Day or time ranges are specified using a hyphen '-'.
+
+
+
+- Days are specified using the following two-letter combinations:
+`Mo`
+
+,`Tu`
+
+,`We`
+
+,`Th`
+
+,`Fr`
+
+,`Sa`
+
+,`Su`
+
+. - Times are specified using 24:00 format. For example, 3pm is specified as
+`15:00`
+
+, 10am as`10:00`
+
+. - Here is an example:
+`<time itemprop="openingHours" datetime="Tu,Th 16:00-20:00">Tuesdays and Thursdays 4-8pm</time>`
+
+. - If a business is open 7 days a week, then it can be specified as
+`<time itemprop="openingHours" datetime="Mo-Su">Monday through Sunday, all day</time>`
+
+.
+
+### Values expected to be one of these types
+
+
+### Used on these types
+
+
+### Examples
+
+[Example 1](#eg-0194)
+
+Copied
+
+Example notes or example HTML without markup.
+
+<div> <h1>Philippa's Pharmacy</h1> <p>A superb collection of fine pharmaceuticals for your beauty and healthcare convenience, a department of Delia's Drugstore.</p> <p>Open: Monday-Thursday 9am-noon</p> <p>Phone: (800)555-1234</p> </div>
+
+Example encoded as
+
+[Microdata](https://en.wikipedia.org/wiki/Microdata_(HTML))embedded in HTML.<div itemscope itemtype="https://schema.org/Pharmacy"> <h1 itemprop="name">Philippa's Pharmacy</h1> <p itemprop="description">A superb collection of fine pharmaceuticals for your beauty and healthcare convenience, a department of Delia's Drugstore.</p> <p>Open: <span itemprop="openingHours" content="Mo,Tu,We,Th 09:00-12:00">Monday-Thursday 9am-noon</span></p> <p>Phone: <span itemprop="telephone" content="+18005551234">(800)555-1234</span></p> </div>
+
+Example encoded as
+
+[RDFa](https://en.wikipedia.org/wiki/RDFa)embedded in HTML.<div vocab="https://schema.org/" typeof="Pharmacy"> <h1 property="name">Philippa's Pharmacy</h1> <p property="description">A superb collection of fine pharmaceuticals for your beauty and healthcare convenience, a department of Delia's Drugstore.</p> <p>Open: <span property="openingHours" content="Mo,Tu,We,Th 09:00-12:00">Monday-Thursday 9am-noon</span></p> <p>Phone: <span property="telephone" content="+18005551234">(800)555-1234</span></p> </div>
+
+Example encoded as
+
+[JSON-LD](https://en.wikipedia.org/wiki/JSON-LD)in a HTML script tag.<script type="application/ld+json"> { "@context": "https://schema.org", "@type": "Pharmacy", "name": "Philippa's Pharmacy", "description": "A superb collection of fine pharmaceuticals for your beauty and healthcare convenience, a department of Delia's Drugstore.", "openingHours": "Mo,Tu,We,Th 09:00-12:00", "telephone": "+18005551234" } </script>
+
+Structured representation of the JSON-LD example.
+
+[Example 2](#eg-0432)
+
+Copied
+
+Example notes or example HTML without markup.
+
+<h1>Disneyland Paris</h1> <div>It's an amusement park in Marne-la-Vallée, near Paris, in France.</div> <div>Hours: Mo-Fr 10am-7pm Sa 10am-22pm Su 10am-21pm</div> <div>Entrance: with ticket</div> <div>Currency accepted: Euro</div> <div>Payment accepted: Cash, Credit Card</div> <div>Website: <a href="http://www.disneylandparis.it/">www.disneylandparis.it</a> </div>
+
+Example encoded as
+
+[Microdata](https://en.wikipedia.org/wiki/Microdata_(HTML))embedded in HTML.<div itemscope itemtype="https://schema.org/AmusementPark https://schema.org/TouristAttraction"> <h1><span itemprop="name">Disneyland Paris</span></h1> <div> <span itemprop="description">It's an amusement park in Marne-la-Vallée, near Paris, in France and is the most visited theme park in all of France and Europe.</span> </div> <div>Hours: Mo-Fr 10am-7pm Sa 10am-22pm Su 10am-21pm <meta itemprop="openingHours" content="Mo-Fr 10:00-19:00"/> <meta itemprop="openingHours" content="Sa 10:00-22:00"/> <meta itemprop="openingHours" content="Su 10:00-21:00"/> </div> <div> <meta itemprop="isAccessibleForFree" content="false"/>Entrance: with ticket </div> <div> <meta itemprop="currenciesAccepted" content="EUR"/>Currency accepted: Euro </div> <div> <meta itemprop="paymentAccepted" content="Cash, Credit Card"/>Payment accepted: Cash, Credit Card </div> <div>Website: <a href="http://www.disneylandparis.it/" itemprop="url">www.disneylandparis.it</a> </div> </div>
+
+Example encoded as
+
+[RDFa](https://en.wikipedia.org/wiki/RDFa)embedded in HTML.<div vocab="https://schema.org/" typeof="TouristAttraction AmusementPark"> <h1><span property="name">Disneyland Paris</span></h1> <div> <span property="description">It's an amusement park in Marne-la-Vallée, near Paris, in France and is the most visited theme park in all of France and Europe.</span> </div> <div>Hours: Mo-Fr 10am-7pm Sa 10am-22pm Su 10am-21pm <meta property="openingHours" content="Mo-Fr 10:00-19:00"/> <meta property="openingHours" content="Sa 10:00-22:00"/> <meta property="openingHours" content="Su 10:00-21:00"/> </div> <div> <meta property="isAccessibleForFree" content="false"/>Entrance: with ticket </div> <div> <meta property="currenciesAccepted" content="EUR"/>Currency accepted: Euro </div> <div> <meta property="paymentAccepted" content="Cash, Credit Card"/>Payment accepted: Cash, Credit Card </div> <div>Website: <a href="http://www.disneylandparis.it/" property="url">www.disneylandparis.it</a> </div> </div>
+
+Example encoded as
+
+[JSON-LD](https://en.wikipedia.org/wiki/JSON-LD)in a HTML script tag.<script type="application/ld+json"> { "@context": "https://schema.org", "@type": ["TouristAttraction", "AmusementPark"], "name": "Disneyland Paris", "description": "It's an amusement park in Marne-la-Vallée, near Paris, in France and is the most visited theme park in all of France and Europe.", "openingHours":["Mo-Fr 10:00-19:00", "Sa 10:00-22:00", "Su 10:00-21:00"], "isAccessibleForFree": false, "currenciesAccepted": "EUR", "paymentAccepted":"Cash, Credit Card", "url":"http://www.disneylandparis.it/" } </script>
+
+Structured representation of the JSON-LD example.

@@ -1,0 +1,48 @@
+---
+title: "broadcastOfEvent"
+source_url: https://schema.org/broadcastOfEvent
+category: schema-org
+section: "schema.org — structured-data vocabulary reference"
+date: 2026-03-19
+---
+
+# broadcastOfEvent
+
+# broadcastOfEvent
+
+A Schema.org Property
+
+- Canonical URL: https://schema.org/broadcastOfEvent
+[Check for open issues.](https://github.com/schemaorg/schemaorg/issues?q=is%3Aissue+is%3Aopen+broadcastOfEvent)
+
+The event being broadcast such as a sporting event or awards ceremony.
+
+### Values expected to be one of these types
+
+
+### Used on these types
+
+
+### Examples
+
+[Example 1](#eg-0445)
+
+Copied
+
+Example notes or example HTML without markup.
+
+A broadcast of the FIFA Women's World Cup 2015 final.
+
+Example encoded as
+
+[Microdata](https://en.wikipedia.org/wiki/Microdata_(HTML))embedded in HTML.<div itemscope itemtype="https://schema.org/BroadcastEvent"> <span itemprop="name">FIFA Women's World Cup Final</span> <span itemprop="description">US vs. Japan</span> <link itemprop="isLiveBroadcast" href="https://schema.org/True" /> <span itemprop="videoFormat">HD</span> <span itemprop="startDate" content="2015-07-05T15:30-07:00">starts 07/05/2015 3:30PM</span> <div itemprop="broadcastOfEvent" itemscope itemtype="https://schema.org/SportsEvent"> <span itemprop="name">FIFA Women's World Cup Final 2015</span> <div itemprop="competitor" itemscope itemtype="https://schema.org/SportsTeam"> <meta itemprop="name" content="United States" /> </div> <div itemprop="competitor" itemscope itemtype="https://schema.org/SportsTeam"> <meta itemprop="name" content="Japan" /> </div> <meta itemprop="startDate" content="2015-07-05T16:00-07:00" /> <div itemprop="location" itemscope itemtype="https://schema.org/City"> Played in <span itemprop="name">Vancouver</span> </div> </div> </div>
+
+Example encoded as
+
+[RDFa](https://en.wikipedia.org/wiki/RDFa)embedded in HTML.<div vocab="https://schema.org/" typeof="BroadcastEvent"> <span property="name">FIFA Women's World Cup Final</span> <span property="description">US vs. Japan</span> <link property="isLiveBroadcast" href="https://schema.org/True" /> <span property="videoFormat">HD</span> <span property="startDate" content="2015-07-05T15:30-07:00">starts 07/05/2015 3:30PM</span> <div property="broadcastOfEvent" typeof="SportsEvent"> <span property="name">FIFA Women's World Cup Final 2015</span> <div property="competitor" typeof="SportsTeam"> <meta property="name" content="United States" /> </div> <div property="competitor" typeof="SportsTeam"> <meta property="name" content="Japan" /> </div> <meta property="startDate" content="2015-07-05T16:00-07:00" /> <div property="location" typeof="City"> Played in <span property="name">Vancouver</span> </div> </div> </div>
+
+Example encoded as
+
+[JSON-LD](https://en.wikipedia.org/wiki/JSON-LD)in a HTML script tag.<script type="application/ld+json"> { "@context":"https://schema.org", "@type":"BroadcastEvent", "name": "FIFA Women's World Cup Final", "description": "US vs. Japan", "isLiveBroadcast": true, "videoFormat": "HD", "startDate": "2015-07-05T15:30-07:00", "broadcastOfEvent": { "@type": "SportsEvent", "name": "FIFA Women's World Cup Final 2015", "competitor": [ { "@type": "SportsTeam", "name": "United States" }, { "@type": "SportsTeam", "name": "Japan" } ], "startDate": "2015-07-05T16:00-07:00", "location": { "@type": "City", "name": "Vancouver" } } } </script>
+
+Structured representation of the JSON-LD example.

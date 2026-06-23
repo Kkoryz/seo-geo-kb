@@ -1,0 +1,27 @@
+---
+title: "schemaVersion"
+source_url: https://schema.org/schemaVersion
+category: schema-org
+section: "schema.org — structured-data vocabulary reference"
+date: 2026-03-19
+---
+
+# schemaVersion
+
+# schemaVersion
+
+A Schema.org Property
+
+- Canonical URL: https://schema.org/schemaVersion
+[Check for open issues.](https://github.com/schemaorg/schemaorg/issues?q=is%3Aissue+is%3Aopen+schemaVersion)
+
+Indicates (by URL or string) a particular version of a schema used in some CreativeWork. This property was created primarily to
+indicate the use of a specific schema.org release, e.g.
+
+`10.0`
+
+as a simple string, or more explicitly via URL, `https://schema.org/docs/releases.html#v10.0`
+
+. There may be situations in which other schemas might usefully be referenced this way, e.g. `http://dublincore.org/specifications/dublin-core/dces/1999-07-02/`
+
+but this has not been carefully explored in the community.### Used on these types

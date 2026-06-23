@@ -1,0 +1,342 @@
+---
+title: "Content Writing: What It Is + 15 Tips for Success"
+source_url: https://www.semrush.com/blog/content-writing/
+category: semrush-blog
+section: "Semrush blog — SEO/GEO methodology"
+date: 2023-12-04
+---
+
+# Content Writing: What It Is + 15 Tips for Success
+
+## What Is Content Writing?
+
+Content writing is the process of creating text-based content—such as blog posts, ebooks, and newsletters—usually for digital marketing purposes. The idea is to write content that informs, educates, and entertains your target audience to increase the chance they later become customers.
+
+In addition to crafting copy, [content writers](https://www.semrush.com/blog/content-writer/) are usually responsible for:
+
+- Planning a
+[content strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/) - Publishing and
+[distributing content](https://www.semrush.com/blog/content-distribution-guide/) - Analyzing
+[content metrics](https://www.semrush.com/blog/content-performance/)
+
+Written content may also include non-text elements, such as images and videos. Which the writer may produce themselves or in collaboration with a teammate.
+
+## 15 Content Writing Tips
+
+Here are 15 content writing tips every marketer should know:
+
+## 1. Pick a Relevant Topic
+
+When writing content, you need to pick a topic that’s relevant to your brand **and** your [target audience](https://www.semrush.com/blog/target-audience/).
+
+By focusing on relevant topics, you can build a reputation as a subject matter expert. That way, potential customers are more likely to engage with your business.
+
+Plus, focusing on relevance and showcasing your knowledge can help with your search engine optimization ([SEO](https://www.semrush.com/blog/what-is-seo/)):
+
+Google wants to rank sites that demonstrate Experience, Expertise, Authoritativeness, and Trustworthiness ([E-E-A-T](https://www.semrush.com/blog/eeat/)). And you can only do that if you know what you’re talking about.
+
+Find popular and trending topics in your industry with Semrush’s [Topic Research](https://www.semrush.com/topic-research/) tool.
+
+Enter a topic related to your business to base your search around. Then, choose your country and click “**Get content ideas**.”
+
+The flame icon next to the ideas the tool generates means the topic is trending.
+
+Click “**Show more**” on any idea to see headlines, questions, and related searches.
+
+## 2. Choose the Right Format
+
+Written content comes in many different formats.
+
+These are the best-performing (in order), according to our [industry survey](https://www.semrush.com/goodcontent/state-of-content-marketing/):
+
+|
+|
+|
+|
+| Short-form articles | Short-form articles are under 1,000 words or so. This format is ideal for covering a highly specific topic. | |
+| Success stories | Success stories celebrate customers’ achievements with your product or service. Effective |
+|
+| Long-form blog posts | Long-form blog posts are over 1,000 words or so and allow you to explore a topic in depth. High-performing articles have 1,152 words on average, according to | |
+| Case studies | Case studies explore a customer’s achievements with products or services—similar to success stories. But case studies present facts in a more analytical way. |
+|
+| Gated content |
+| |
+| White papers | A white paper is an in-depth report that educates readers about a particular product or service. And are typically used in | |
+| Product guides/manuals | Product guides or manuals help customers to use and get the most out of your products. To convert more | |
+| Research reports | Research reports provide detailed information about original studies and their findings. Many businesses publish the full report as a PDF and create a supporting blog post with key takeaways. |
+
+To get an idea of the best format for a topic, check Google.
+
+For example, the search results for “how to invest in stocks” are dominated by long-form articles.
+
+Alternatively, you can start with a format, and **then** choose a topic.
+
+Remember that different types of written content can help you reach different audiences. And achieve different goals.
+
+So, it’s beneficial to use a mix.
+
+**Further reading**: [12 Types of Content Marketing to Leverage for Success](https://www.semrush.com/blog/types-of-content-marketing/)
+
+## 3. Create an Outline
+
+Don’t jump into content writing without a clear plan—create an outline first.
+
+A content outline is a framework for a piece of content. It helps you stay focused during the writing process and avoid any issues.
+
+So, take the time to:
+
+- Write a brief summary of the content you want to create
+- Devise the content’s structure and note the points you’ll include in each section
+- Gather useful resources, such as links and images
+
+Or take advantage of the [SEO Brief Generator](https://www.semrush.com/content/briefs/create) within Semrush’s Content Toolkit.
+
+To get started, launch the tool and enter a primary keyword (like “*best telecommunication platforms*”) along with your target location.
+
+Then click **“Continue.”**
+
+The tool will walk you through a few quick steps to build your brief. You’ll be able to:
+
+- Select top competitor articles for SERP-based analysis
+- Tweak your title and target word count
+- Choose secondary keywords to include
+- Build your article’s structure
+- Customize or use the suggested meta description
+- Add any extra notes or guidelines for your writer
+
+Once done, you’ll get a complete, SEO-focused content brief ready to turn into a full-length article with the [AI Article Generator](https://www.semrush.com/content/articles/create). Or simply hand it to your writers using the “**Share brief**” option.
+
+## 4. Be Helpful
+
+If there’s one thing to remember from our list of content writing tips, it’s the importance of being helpful.
+
+Because **unhelpful** content may do more harm than good. It can hurt your brand’s reputation. Drive customers away. And negatively affect your Google rankings.
+
+Helpful content is content that meets (or exceeds) the reader’s expectations. And leaves them feeling satisfied.
+
+Make sure your written content is:
+
+**Actionable**. Include detailed instructions and examples to help readers out.**Comprehensive**. Answer follow-up questions and recommend extra resources.**Trustworthy**. Only include reliable and up-to-date information.**Targeted**. Create it with your target audience’s needs and preferences in mind.
+
+If possible, gather feedback from readers using polls or surveys. Then act on it.
+
+This is especially helpful when you’re first learning how to write content for websites.
+
+**Further reading:** [What Is Quality Content & How to Create It](https://www.semrush.com/blog/quality-content/)
+
+## 5. Stand Out from the Competition
+
+There’s an overwhelming amount of content online. If you want to earn traffic, engagement, [backlinks](https://www.semrush.com/blog/what-are-backlinks/) (links from other sites that point to your site), and social shares, you need to stand out from the competition.
+
+So, do research. See what’s already out there and consider how you can improve on it—or do something different.
+
+Here are some ways to make your written content stand out:
+
+- Give unique opinions (this is a type of
+[thought leadership](https://www.semrush.com/blog/complete-guide-to-thought-leadership-for-business/)) - Share behind-the-scenes insights and personal stories
+- Conduct original research
+- Tailor your content to a niche audience
+- Present your content in a unique or interesting way
+- Provide supplementary images, videos, templates, etc.
+- Make your content more comprehensive than rival content
+
+Of course, it’s also important to ensure that your wording is unique.
+
+Draft your content with Semrush’s [SEO Writing Assistant](https://www.semrush.com/swa/) to prevent accidental plagiarism.
+
+The tool scores your content’s originality (along with its [readability](#9--consider-readability-scores), SEO, and [tone of voice](#10--perfect-your-tone-of-voice)):
+
+Plus, built-in AI features make it easy to rephrase:
+
+## 6. Add Relevant Keywords
+
+[Keywords](https://www.semrush.com/blog/what-are-keywords/) are words and phrases that people type into search engines.
+
+By adding relevant keywords to your website content, you can rank higher in search results. And attract more potential customers to your page.
+
+To find relevant keywords, use our [free keyword tool](https://www.semrush.com/analytics/keywordmagic/).
+
+Enter a term to base your search around. Then, choose your country and click “**Search**.”
+
+The tool provides a list of broad Match keywords by default. These contain your starting term or a close variation.
+
+You’ll see various keyword metrics, including “**Intent**.” This is the type of [search intent](https://www.semrush.com/blog/search-intent/)—the general purpose behind the user’s search.
+
+Intent can be one of or a combination of the below:
+
+**Navigational:**Users want to find a particular page (e.g., “facebook login”)**Informational:**Users want to learn more about a topic (e.g., “what is ctr”)**Commercial:**Users want to do research to inform a purchase decision (e.g., “best rolling pin”)**Transactional:**Users want to take a specific action, typically a purchase (e.g., “buy honda accord”)
+
+Also pay attention to the “Volume” column. This contains the [keyword search volume](https://www.semrush.com/blog/keyword-search-volume/) (i.e., the average number of monthly searches).
+
+The higher the volume, the higher the potential traffic.
+
+But higher-volume keywords usually have a higher keyword difficulty score (KD %).
+
+[Keyword difficulty](https://www.semrush.com/blog/keyword-difficulty/) is a measure of SERP competitiveness. The higher the score out of 100, the harder it will be to rank in [Google’s top 10 results](https://www.semrush.com/blog/get-on-first-page-of-google/).
+
+Once you’ve chosen your target keywords, pick the most important one. This is your primary keyword. All the others become secondary keywords you can include in the same piece.
+
+Here are some quick [keyword optimization tips](https://www.semrush.com/blog/keyword-optimization/) to use when you create and publish your content:
+
+- Add the primary keyword to the
+[title tag](https://www.semrush.com/blog/title-tag/)(the webpage title that appears in search results)—ideally near the front - Mention the primary keyword within the first two sentences of body content
+- Include the primary keyword in the page’s
+[URL slug](https://www.semrush.com/blog/what-is-a-url-slug/)(the end portion of the URL) - Incorporate keywords into subheadings and body content where natural
+- Use keywords as
+[anchor text](https://www.semrush.com/blog/anchor-text/)(the clickable text that directs to a link) when adding[internal links](https://www.semrush.com/blog/internal-links/)from other pages to your new page
+
+## 7. Write a Compelling Headline
+
+When writing content, you should put a lot of thought into your headline (i.e., the main title).
+
+[Good headlines](https://www.semrush.com/goodcontent/content-marketing-blog/headline-examples/) grab your target audience’s attention, set realistic expectations, and convince people to keep reading.
+
+The next time you need inspiration, use Semrush’s [free title generator](https://www.semrush.com/goodcontent/title-generator/).
+
+Just enter a topic and click “**Get my titles**.”
+
+In website content writing, it’s also best to make your headline SEO-friendly.
+
+So, make sure to include your page’s primary keyword.
+
+And use an [H1 tag](https://www.semrush.com/blog/h1-tag/) (an HTML snippet that identifies the main webpage title), so search engines know it’s the main heading.
+
+Like this:
+
+## 8. Structure Your Content Effectively
+
+Effective structuring helps readers to navigate and digest written content.
+
+It can also help search engines do the same thing. And, therefore, rank your content more effectively.
+
+Here are some content writing tips to bear in mind:
+
+- Section your content with subheadings (don’t forget the
+[HTML tags](https://www.semrush.com/blog/html-tags-list/)like the H1 tag) - Provide a table of contents so readers know what your content covers
+- Add
+[anchor links](https://www.semrush.com/blog/html-anchor/)as appropriate to help users navigate to different sections - Use bullet points, tables, and other formatting elements to help users digest information
+- Make your points in a logical order and try to ensure flow between them
+- Break up text with useful images, videos, and other visuals
+- Keep paragraphs to one or two sentences
+
+If you need help creating a strong structure for your article, use the [SEO Brief Generator](https://www.semrush.com/content/briefs/create) inside Semrush’s Content Toolkit.
+
+You can also generate full-length, SEO-friendly blog posts using the [AI Article Generator](https://www.semrush.com/content/articles/create), also part of the Toolkit.
+
+The tool will carry over your structure, keywords, and meta info, so you can go from outline to draft without starting from scratch.
+
+After your initial draft is ready, edit it using the built-in editor and the integrated AI chat.
+
+9. Consider Readability Scores
+
+A readability score measures how difficult it is to read a given text. And checking your content’s readability score helps ensure it’s suitable for your target audience.
+
+Get a recommended readability score for your content with Semrush’s [SEO Content Template](https://www.semrush.com/seo-content-template/).
+
+The tool analyzes the top 10 organic results for your target keyword(s). To provide a number of useful metrics, including an average readability score.
+
+To track your content’s readability in real time, send your template to the [SEO Writing Assistant](https://www.semrush.com/swa/). And start writing.
+
+Hard-to-read words and sentences are highlighted purple.
+
+If you need help fixing them, use the built-in [AI tools](https://www.semrush.com/blog/best-ai-tools/) to simplify or rephrase.
+
+## 10. Perfect Your Tone of Voice
+
+[Tone of voice](https://www.semrush.com/blog/how-to-define-your-tone-of-voice/) refers to the personality and style behind your writing. With a different tone of voice, you can communicate the same idea in different ways.
+
+The right tone of voice depends on your:
+
+**Target audience**. For example, you might use modern slang when addressing a Gen Z audience. But not when targeting people over age 50.**Brand identity**. For example, financial institutions tend to use formal language to suggest that they’re trustworthy. While fast food brands take a more casual approach to written content.**Subject matter**. For example, brands tend to adopt a more serious tone when making an apology or discussing corporate social responsibility.**Content format**. For example, white papers tend to be more formal than blog posts. Because readers expect something more professional.
+
+For help with tone of voice, use Semrush’s [SEO Writing Assistant](https://www.semrush.com/swa/).
+
+You can install it in [Google Docs](https://gsuite.google.com/marketplace/app/semrush_seo_writing_assistant/215726158749), [Microsoft Word](https://appsource.microsoft.com/en-gb/product/office/WA200003558?tab=Overview), or [WordPress](https://wordpress.org/plugins/semrush-seo-writing-assistant/). Or just use the tool in Semrush.
+
+After entering your target keywords, click “**Tone of voice**” to check your content’s formality level. And its consistency.
+
+If you want, you can change your target tone from “Neutral” to “Very casual,” “Somewhat casual,” “Somewhat formal,” or “Very formal.”
+
+The tool will flag any sentences that are too casual or too formal.
+
+If you need help rephrasing, take advantage of the Smart Writer tools.
+
+## 11. Check Your Spelling and Grammar
+
+Accurate spelling and grammar make your written content more professional. And easier to understand.
+
+Most word processors (like Google Docs and Microsoft Word) have built-in spell checkers to help you out.
+
+But you can also take advantage of [content writing tools](https://www.semrush.com/blog/content-creation-tools/#content-writing-tools) like [Grammarly](https://www.grammarly.com/) and [Hemingway App](https://hemingwayapp.com/). Which provide more detailed recommendations for your writing.
+
+These tools can help you improve individual pieces of content. And [become a better writer](https://www.semrush.com/blog/how-to-become-a-better-writer/).
+
+No matter how you do it, make sure to proofread your own content. Ideally a day or more after writing your draft, when you have a fresh perspective.
+
+This can be one of the most effective ways to spot errors and opportunities for improvement.
+
+## 12. Optimize Your Title Tag
+
+Title tags (like the one shown below) are important for two main reasons:
+
+First, more compelling title tags should generate more clicks.
+
+Second, Google looks at title tags to understand what pages are about.
+
+Here are our top tips for getting title tags right:
+
+- Make sure the title tag is similar to (or the same as) your headline
+- Include the page’s primary keyword early on
+- Keep them to 60 characters or fewer to reduce the risk of truncation
+- Check competitors’ title tags and write something that stands out
+
+## 13. Write Compelling Meta Descriptions
+
+[Meta descriptions](https://www.semrush.com/blog/meta-description/) are webpage summaries that can appear in search results.
+
+Like this:
+
+Your page’s meta description won’t directly affect its Google rankings.
+
+But it can affect your click-through rate (i.e., the percentage of people that choose to click your result).
+
+Here are some tips for writing a compelling meta description:
+
+- Let the reader know exactly what they’ll find on your page
+- Use imperative verbs like “read” or “learn” to prompt action
+- Check competitors’ meta descriptions to find out how you can stand out
+- Include your page’s primary keyword
+
+## 14. Optimize Your Open Graph Tags
+
+[Open graph tags](https://www.semrush.com/blog/open-graph/) determine how your content gets previewed in social media and other platforms.
+
+You can provide an og:title, og:description, and og:image either using plugins in your content management system (CMS) or by manually adding them to the <head> section of your HTML. To ensure your links look great and attract clicks.
+
+For example, here’s a preview of a Semrush article in Slack:
+
+You can test and preview your open graph tags on [OpenGraph.xyz](https://www.opengraph.xyz/).
+
+Also, make sure to add social sharing buttons to your website.
+
+Like this:
+
+That way, readers are more likely to share your content. Helping you boost brand awareness and attract valuable traffic.
+
+## 15. Tell Readers What to Do Next
+
+At the end of your content, tell your readers what to do next.
+
+This prompts them to take the desired action—whether it’s reading another post, signing up for your newsletter, or exploring a product range.
+
+In marketing, content writing is about building relationships and inspiring action. And people who reach the end of your content are likely interested in what you have to offer.
+
+Make sure to monitor conversions (which you can set up in [Google Analytics](https://www.semrush.com/blog/google-analytics/)) so you know which content tactics are most effective.
+
+Now, let’s put our own advice into practice:
+
+## Streamline Content Writing with Semrush
+
+Semrush’s [Content Toolkit](https://www.semrush.com/content/) has all the tools you need to streamline the content writing process and get better results:
+
+**Topic Finder**: Discover high-potential blog post ideas**SEO Brief Generator**: Create data-backed, SEO-friendly content briefs with competitor insights and AI.**AI Article Generator**: Generate full-length drafts tailored to your brand voice**Content Optimizer**: Analyze and improve your draft for SEO, tone, and readability

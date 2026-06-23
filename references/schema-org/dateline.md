@@ -1,0 +1,33 @@
+---
+title: "dateline"
+source_url: https://schema.org/dateline
+category: schema-org
+section: "schema.org — structured-data vocabulary reference"
+date: 2026-03-19
+---
+
+# dateline
+
+# dateline
+
+A Schema.org Property
+
+- Canonical URL: https://schema.org/dateline
+[Check for open issues.](https://github.com/schemaorg/schemaorg/issues?q=is%3Aissue+is%3Aopen+dateline)
+
+A
+
+
+Structured representations of dateline-related information can also be expressed more explicitly using
+
+
+Dateline summaries are oriented more towards human readers than towards automated processing, and can vary substantially. Some examples: "BEIRUT, Lebanon, June 2.", "Paris, France", "December 19, 2017 11:43AM Reporting from Washington", "Beijing/Moscow", "QUEZON CITY, Philippines".
+
+[dateline](https://en.wikipedia.org/wiki/Dateline)is a brief piece of text included in news articles that describes where and when the story was written or filed though the date is often omitted. Sometimes only a placename is provided.Structured representations of dateline-related information can also be expressed more explicitly using
+
+[locationCreated](/locationCreated)(which represents where a work was created, e.g. where a news report was written). For location depicted or described in the content, use[contentLocation](/contentLocation).Dateline summaries are oriented more towards human readers than towards automated processing, and can vary substantially. Some examples: "BEIRUT, Lebanon, June 2.", "Paris, France", "December 19, 2017 11:43AM Reporting from Washington", "Beijing/Moscow", "QUEZON CITY, Philippines".
+
+### Values expected to be one of these types
+
+
+### Used on these types
